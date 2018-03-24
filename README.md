@@ -1,4 +1,5 @@
 # Curso de Python (introdução)
+######https://www.cursoemvideo.com/
 ### Fundamentos
 *   Aulas 001 à 011
 *   Exercícios 001 à 035
